@@ -1,0 +1,49 @@
+* {
+    font-family: "comic sans ms", sans-serif;
+    background-color:blueviolet;
+}
+
+#floating-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    height: 150px;
+    background-color: red;
+    padding: 10px 0;
+}
+
+.headerLink {
+    display: inline;
+    padding: 0 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#navbar {
+    text-align: center;
+    background-color: green;
+}
+
+figcaption {
+    color: yellow;
+}
+
+#page {
+    position: absolute;
+    top: 150px;
+}
+
+#contactForm {
+    width: 600px;
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+
+input {
+    z-index:100;
+    background-color: aliceblue;
+}
