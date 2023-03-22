@@ -47,3 +47,12 @@ input {
     z-index:100;
     background-color: aliceblue;
 }
+
+footer {
+    width: 100%;
+}
+
+#designers {
+    text-align: center;
+    margin: 0px auto;
+}
